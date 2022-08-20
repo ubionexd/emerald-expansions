@@ -14,7 +14,7 @@
     "issues": "https://github.com/ubionexd/emerald-expansions/issues"
   },
 
-  "license": "MIT",
+  "license": "GNU Lesser General Public License v3",
   "icon": "assets/emeraldexpansions/icon.png",
 
   "environment": "*",
@@ -36,7 +36,4 @@
     "minecraft": "1.19.x",
     "java": ">=17"
   },
-  "suggests": {
-    "another-mod": "*"
-  }
 }
