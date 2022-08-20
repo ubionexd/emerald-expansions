@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ee",
+    "e/",
+    " /"
+  ],
+  "key": {
+    "e": {
+      "item": "emeraldexpansions:emerald_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "emeraldexpansions:emerald_axe",
+    "count": 1
+  }
+}

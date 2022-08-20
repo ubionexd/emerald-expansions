@@ -1,0 +1,19 @@
+{
+  "item.emeraldexpansions.emerald_ingot": "Emerald Ingot",
+  "item.emeraldexpansions.raw_emerald": "Raw Emerald",
+
+  "block.emeraldexpansions.raw_emerald_block": "Block of Raw Emerald",
+
+  "item.emeraldexpansions.emerald_helmet": "Emerald Helmet",
+  "item.emeraldexpansions.emerald_chestplate": "Emerald Chestplate",
+  "item.emeraldexpansions.emerald_leggings": "Emerald Leggings",
+  "item.emeraldexpansions.emerald_boots": "Emerald Boots",
+
+  "item.emeraldexpansions.emerald_sword": "Emerald Sword",
+  "item.emeraldexpansions.emerald_pickaxe": "Emerald Pickaxe",
+  "item.emeraldexpansions.emerald_axe": "Emerald Axe",
+  "item.emeraldexpansions.emerald_shovel": "Emerald Shovel",
+  "item.emeraldexpansions.emerald_hoe": "Emerald Hoe",
+
+  "itemGroup.emeraldexpansions.emerald_expansions": "Emerald Expansions"
+}

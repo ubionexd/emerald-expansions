@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e e",
+    "eee",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "emeraldexpansions:emerald_ingot"
+    }
+  },
+  "result": {
+    "item": "emeraldexpansions:emerald_chestplate",
+    "count": 1
+  }
+}

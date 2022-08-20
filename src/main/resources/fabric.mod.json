@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "emeraldexpansions",
+  "version": "${version}",
+
+  "name": "Emerald Expansions",
+  "description": "Expansions for emeralds, because emeralds are boring. Made for ModFest: Singularity",
+  "authors": [
+    "ubionexd"
+  ],
+  "contact": {
+    "homepage": "https://ubionexd.vercel.app",
+    "sources": "https://github.com/ubionexd/emerald-expansions",
+    "issues": "https://github.com/ubionexd/emerald-expansions/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/emeraldexpansions/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.ubionexd.emeraldexpansions.EmeraldExpansions"
+    ],
+    "client": [
+      "net.ubionexd.emeraldexpansions.EmeraldExpansionsClient"
+    ]
+  },
+  "mixins": [
+    "emeraldexpansions.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": ">=0.55.1",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

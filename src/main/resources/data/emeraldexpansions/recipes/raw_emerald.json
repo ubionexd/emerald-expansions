@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:emerald"
+  },
+  "result": "emeraldexpansions:raw_emerald",
+  "count": 3
+}

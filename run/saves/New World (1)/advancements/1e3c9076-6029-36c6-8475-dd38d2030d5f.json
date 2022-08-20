@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-08-20 14:59:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-08-20 14:59:45 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

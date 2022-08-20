@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "emeraldexpansions:raw_emerald"
+  },
+  "result": "emeraldexpansions:emerald_ingot",
+  "experience": 2,
+  "cookingtime": 200
+}
